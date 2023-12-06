@@ -1,0 +1,31 @@
+Distance is 0
+
+Distance is 15
+2
+1
+10
+2
+1
+5
+
+Distance is 9
+1
+4
+3
+1
+5
+
+Distance is 14
+2
+1
+2
+2
+1
+12
+
+Distance is 60
+1
+30
+2
+1
+30
